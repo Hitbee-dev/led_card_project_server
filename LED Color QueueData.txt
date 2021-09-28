@@ -1,0 +1,6 @@
+16777216 = black
+16738666 = green
+16150519 = 연green
+2555649 = purple
+65519 = red
+256 = yellow

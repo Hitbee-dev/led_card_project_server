@@ -1,0 +1,72 @@
+B,2098.0000000 ms,0.4,Blink,0.4,0xffff00ff
+A,2518.0000000 ms,0.6,Blink,0.6,0xff0011ff
+N,3148.0000000 ms,0.2,Blink,0.2,0xffff00ff
+A,3358.00000000 ms,0.6,Blink,0.6,0xff0011ff
+N,3988.00000000 ms,0.2,Blink,0.2,0xffff00ff
+A,4198.00000000 ms,0.4,Blink,0.4,0xff0011ff
+차,4618.0000000 ms,0.4,Blink,0.4,0xd900ffff
+차,5038.00000000 ms,0.4,Blink,0.4,0x009696ff
+M,5458.00000000 ms,0.4,Blink,0.4,0x0990099
+O,5878.00000000 ms,0.6,Blink,0.6,0xff0011ff
+M,6508.00000000 ms,0.2,Blink,0.2,0x0990099
+O,6718.00000000 ms,0.4,Blink,0.4,0xff0011ff
+<Effect_01>,7138.0 ms,0.2,Blink,0.4,0xc4ba0a
+<Effect_02>,7558.0 ms,0.2,Blink,0.4,0xff0011ff
+<Effect_06_1>,7978.0 ms,0.2,Blink,0.2,0xffff00ff
+바,8188.0 ms,0.2,Blink,0.2,0xffff00ff
+나,8398.0ms,0.2,Blink,0.2,0xfff5500
+나,8608.0ms,0.2,Blink,0.2,0x0a6abf
+차,8818.0ms,0.2,Blink,0.2,0xc23f00
+차,9028.0ms,0.2,Blink,0.2,0x0a6abf
+<Effect_04>,9238.0ms,0.1,Blink,0.6,0x02c941
+바,9868.0ms,0.2,Blink,0.2,0xffff00ff
+나,10078.0ms,0.2,Blink,0.2,0xfff5500
+나,10288.0ms,0.2,Blink,0.2,0x0a6abf
+차,10498.0ms,0.2,Blink,0.2,0xc23f00
+차,10708.0ms,0.2,Blink,0.2,0x0a6abf
+<Effect_04>,10918.0ms,0.1,Blink,0.6,0xeb46bf
+<Effect_04>,11548.0ms,0.1,Blink,0.6,0xeb46bf
+라 라 라 라 라,12178.0ms,0.1777,Blink,1.6,0xbf5836
+<Effect_02>,13858.0ms,0.2,Blink,0.4,0xbf5836
+<Effect_04>,14278.0ms,0.1,Blink,0.6,0xbf5836
+바,14908.0ms,0.2,Blink,0.2,0xffff00ff
+나,15118.0ms,0.2,Blink,0.2,0xfff5500
+나,15328.0ms,0.2,Blink,0.2,0x0a6abf
+차,15538.0ms,0.2,Blink,0.2,0xc23f00
+차,15748.0ms,0.2,Blink,0.2,0x0a6abf
+<Effect_04>,15958.0ms,0.1,Blink,0.6,0x02c941
+바,16588.0ms,0.2,Blink,0.2,0xffff00ff
+나,16798.0ms,0.2,Blink,0.2,0xfff5500
+나,17008.0ms,0.2,Blink,0.2,0x0a6abf
+차,17218.0ms,0.2,Blink,0.2,0xc23f00
+차,17428.0ms,0.2,Blink,0.2,0x0a6abf
+<Effect_04>,18058.0ms,0.1,Blink,0.6,0x02c941
+<Effect_05>,18688.0ms,0.2,Blink,0.6,0xf25850
+라 라 라 라 라,19318.0ms,0.1777,Blink,1.6,0xf25850
+<Effect_04>,20998.0ms,0.2,Blink,1.2,0xe35752
+<Effect_06_1>,22258.0ms,0.4,Blink,0.4,0xe35752
+<Effect_01>,22678.0ms,0.4,Blink,0.8,0xe35752
+<Effect_05>,23518.0ms,0.266,Blink,0.8,0xe35752
+<Effect_02>,24358.0ms,0.4,Blink,0.8,0xe35752
+<Effect_01>,25198.0ms,0.4,Blink,0.8,0xc4ba0a
+<Effect_04>,26038.0ms,0.266,Blink,1.6,0xff10001
+<eq>,27718.0ms,0.08,Blink,1.2,0xff10002
+L O V E,28978.0ms,0.11428,Blink,0.8,0xff10003
+<Effect_07>,29818.0ms,0.088,Blink,0.8,0xff10004
+L O V E,30658.0ms,0.11428,Blink,0.8,0xff10005
+<Effect_07>,31498.0ms,0.088,Blink,0.8,0xff10006
+마 마 파 파,32338.0ms,0.1714,Blink,1.2,0xff10007
+<Effect_03>,33598.0ms,0.114,Blink,0.8,0xff10008
+<Effect_06>,34438.0ms,0.25,Blink,1,0xff10009
+<Effect_01>,35488.0ms,0.3,Blink,0.6,0xc4ba0a
+차,36118.0ms,0.2,Blink,0.2,0xff10011
+차,36328.0ms,0.2,Blink,0.2,0xff10012
+<Effect_04>,36538.0ms,0.1,Blink,0.6,0xff10013
+<Effect_01>,37168.0ms,0.3,Blink,0.6,0xc4ba0a
+차,37798.0ms,0.2,Blink,0.2,0xff10015
+차,38008.0ms,0.2,Blink,0.2,0xff10016
+<Effect_04>,38218.0ms,0.1,Blink,0.6,0xff10017
+<Effect_03>,38848.0ms,0.2,Blink,0.6,0xff10018
+라 라 라 라 라,39478.0ms,0.1777,Blink,1.6,0xff10019
+<Effect_04>,41158.0ms,0.2,Blink,1.2,0xff10020
+<Effect_01>,42418.0ms,0.1,Blink,2,0xc4ba0a
