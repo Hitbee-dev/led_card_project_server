@@ -1,2 +1,2 @@
 # LED CARD PROJECT
--. Java Server
+- Java Server
